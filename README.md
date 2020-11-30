@@ -34,17 +34,6 @@ Jeecg-Boot 低代码开发平台
 - 缓存：Redis
 
 
-## 技术文档
-
-
-- 在线演示 ：  [http://boot.jeecg.com](http://boot.jeecg.com)
-
-- 在线文档：  [http://doc.jeecg.com/1273753](http://doc.jeecg.com/1273753)
-
-- 常见问题：  [入门常见问题大全](http://bbs.jeecg.com/forum.php?mod=viewthread&tid=7816&extra=page%3D1)
-
-- QQ交流群 ：  ①284271917、②769925425
-
 
 ## 专项文档
 
