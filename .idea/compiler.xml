@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="jeecg-boot-module-cuscrm" />
+        <module name="jeecg-cloud-gateway" />
+        <module name="jeecg-boot-module-crm" />
+        <module name="jeecg-system-cloud-api" />
+        <module name="jeecg-boot-base-common" />
+        <module name="jeecg-boot-module-demo" />
+        <module name="jeecg-boot-module-system" />
+        <module name="jeecg-system-local-api" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="jeecg-boot-base-api" target="1.8" />
+      <module name="jeecg-boot-base-common" target="1.8" />
+      <module name="jeecg-boot-module-crm" target="1.8" />
+      <module name="jeecg-boot-module-cuscrm" target="1.8" />
+      <module name="jeecg-boot-module-demo" target="1.8" />
+      <module name="jeecg-boot-module-system" target="1.8" />
+      <module name="jeecg-boot-parent" target="1.8" />
+      <module name="jeecg-cloud-gateway" target="1.8" />
+      <module name="jeecg-cloud-module" target="1.8" />
+      <module name="jeecg-system-cloud-api" target="1.8" />
+      <module name="jeecg-system-local-api" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="jeecg-boot-base-common" options="-parameters" />
+      <module name="jeecg-boot-module-crm" options="-parameters" />
+      <module name="jeecg-boot-module-cuscrm" options="-parameters" />
+      <module name="jeecg-boot-module-demo" options="-parameters" />
+      <module name="jeecg-boot-module-system" options="-parameters" />
+      <module name="jeecg-cloud-gateway" options="-parameters" />
+      <module name="jeecg-system-cloud-api" options="-parameters" />
+      <module name="jeecg-system-local-api" options="-parameters" />
+    </option>
+  </component>
+</project>
