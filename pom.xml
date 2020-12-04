@@ -22,7 +22,6 @@
 		<module>jeecg-boot-module-system</module>
 		<module>jeecg-boot-module-demo</module>
 		<module>jeecg-cloud-module</module>
-        <module>jeecg-boot-module-cuscrm</module>
         <module>jeecg-boot-module-crm</module>
     </modules>
 

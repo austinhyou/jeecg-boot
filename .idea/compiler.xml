@@ -7,7 +7,6 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="jeecg-boot-module-cuscrm" />
         <module name="jeecg-cloud-gateway" />
         <module name="jeecg-boot-module-crm" />
         <module name="jeecg-system-cloud-api" />
